@@ -58,7 +58,7 @@ To use:
 
 ## Performance
 
-The model achieves an accuracy of 85.8% on the test set.
+The model achieves an accuracy of 86% on the test set.
 
 ## Future Work
 
